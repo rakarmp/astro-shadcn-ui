@@ -1,4 +1,4 @@
-# Astro Starter Kit: Minimal
+# Astro Starter Kit: Shadcn + Tailwind
 
 ```
 npm create astro@latest -- --template rakarmp/astro-shadcn-ui
@@ -8,6 +8,8 @@ npm create astro@latest -- --template rakarmp/astro-shadcn-ui
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/rakarmp/astro-shadcn-ui)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+
+<img src="./public/img.png" alt="preview">
 
 ## 🚀 Project Structure
 
