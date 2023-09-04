@@ -1,6 +1,7 @@
 ---
 import "@/styles/globals.css";
 import { Separator } from "@/components/ui/separator";
+import astro from "/favicon.svg";
 ---
 
 <html lang="en">
@@ -23,11 +24,15 @@ import { Separator } from "@/components/ui/separator";
       </div>
       <Separator className="my-4" />
       <div class="flex h-5 items-center space-x-4 text-sm">
-        <div>Me</div>
-        <Separator orientation="vertical" />
-        <div>Docs</div>
-        <Separator orientation="vertical" />
-        <div>Source</div>
+        <div>
+          <img src="/astrojs.png" width="20px" />
+        </div>
+        <div>
+          <img src="/tailwind.png" width="20px" />
+        </div>
+        <div>
+          <img src="/shadcn.jpg" width="100px" height="100px" />
+        </div>
       </div>
     </div>
   </body>
